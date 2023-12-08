@@ -40,7 +40,8 @@ Profitability Per Film 🎥:
     Visualizes the profitability of each film by considering production costs and revenue.
     Helps in understanding the financial success of individual movies.
 
-    ![image](https://github.com/ajaykachhala/Power-Bi-and-R-project-on-Hollywood-Movies/assets/105333994/fca8842d-2bc7-45ee-b403-21f8fa7d25c5)
+  ![image](https://github.com/ajaykachhala/Power-Bi-project-on-Hollywood-Movies/assets/105333994/b4e7a267-325b-4c2e-8cb3-4dce4dcff8c9)
+
 
 
 Conclusion:
